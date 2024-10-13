@@ -1,6 +1,7 @@
 [
     [["cdn.jsdelivr.net"],"","jsdelivr.ydns.eu"],
     [["images.prismic.io"],"","151.101.78.208"],
+    [["*imgix.net"],"","imgix.ydns.eu"],
     [["*pixiv.net","*fanbox.cc"],"pixivision.net","210.140.92.187"],
     [["*pximg.net"],"","pximg.ydns.eu"],
     [["*pinterest.com","*pinimg.com"],"","151.101.0.84"],
